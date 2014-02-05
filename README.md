@@ -26,7 +26,7 @@ The Open Gov Hack Night, organized by civic tech group Open City, is for those w
 
 For more information on the event itself, and to RSVP, visit [the main web site](http://opengovhacknight.org/).
 
-You can find [a listing of projects](http://opengovhacknight.org/projects.html) that started at previous hack nights on the website, and [a listing of people](http://opengovhacknight.org/people.html) who have contributed to those projects. The projects listing page allows you to add your project to the list, as long as it's hosted on Github.
+You can find [a listing of projects](http://opengovhacknight.org/projects.html) that started at previous hack nights on the website, and [a listing of people](http://opengovhacknight.org/people.html) who have contributed to those projects. The projects listing page allows you to add your project to the list, as long as it's hosted on Github. For example, this [glossary](https://github.com/chi-civic-hacking-howto/glossary) project is listed there.
 
 ## How Can I Talk The Talk?
 
@@ -75,7 +75,7 @@ Not content to let this movement pass them by, some of these pre-developers hatc
  * [Twitter API](https://dev.twitter.com/docs/api)
   * FIXME: need description, example URL, link to project that uses it
   
-### [Repo, Repository](http://en.wikipedia.org/wiki/Repository_%28version_control%29)
+### Repo, Repository ([wikipedia](http://en.wikipedia.org/wiki/Repository_%28version_control%29))
 
 * Repo is the more commonly used of the two, and is simply a shortened version of "repository". According to Wikipedia, 
 
