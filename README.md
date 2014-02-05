@@ -41,23 +41,23 @@ Not content to let this movement pass them by, some of these pre-developers hatc
 * FIXME: need description, example, links
   
  * [DataMade](http://datamade.us/)
-  * FIXME: need description
+   * FIXME: need description
  * Code for America ([main site](http://codeforamerica.org/), [github](https://github.com/codeforamerica))
-  * FIXME: need description
+   * FIXME: need description
  * [Code for America Brigade](http://brigade-alpha.codeforamerica.org/)
-  * FIXME: need description
+   * FIXME: need description
  * [Civic Tech Patterns and Anti-Patterns](https://github.com/codeforamerica/civic-tech-patterns)
-  * FIXME: need description
+   * FIXME: need description
   
 ### Open Source, Open-Source Software ([wikipedia](http://en.wikipedia.org/wiki/Open-source_software))
 
 ### git, GitHub ([wikipedia](http://en.wikipedia.org/wiki/Github), [main site](https://github.com/))
 
 * FIXME: need description
- * [GitHub Glossary](https://help.github.com/articles/github-glossary)
- * [Resources for learning git and GitHub](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
- * [Explore Github](https://github.com/explore)
- * [git cheatsheet](http://cheat.errtheblog.com/s/git)
+  * [GitHub Glossary](https://help.github.com/articles/github-glossary)
+  * [Resources for learning git and GitHub](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+  * [Explore Github](https://github.com/explore)
+  * [git cheatsheet](http://cheat.errtheblog.com/s/git)
   
 ### GIS, Geographic Information System ([wikipedia](http://en.wikipedia.org/wiki/Geographic_information_system))
 
@@ -65,15 +65,15 @@ Not content to let this movement pass them by, some of these pre-developers hatc
 
 ### API, Web API, REST API ([wikipedia](http://en.wikipedia.org/wiki/Application_programming_interface))
 
-* API is an acronym for Application Programming Interface. When the term is tossed around at the Hack Night, typically it is meant as a [Web API](http://en.wikipedia.org/wiki/Web_API) Wikipedia says that an API "specifies how some software components should interact with each other." The Wikipedia definition leads to more alienating terminology to beginners, so perhaps a more effective way to understand API is to see some examples of commonly used APIs.
+* API is an acronym for Application Programming Interface. When the term is tossed around at the Hack Night, typically it is meant as a [Web API](http://en.wikipedia.org/wiki/Web_API). Wikipedia says that an API "specifies how some software components should interact with each other." The Wikipedia definition leads to more alienating terminology to beginners, so perhaps a more effective way to understand API is to see some examples of commonly used APIs.
  * [Google Maps API](https://developers.google.com/maps/)
-  * FIXME: need description, example URL, link to project that uses it
+   * FIXME: need description, example URL, link to project that uses it
  * [Github API](http://developer.github.com/v3/)
-  * FIXME: need description, example URL, link to project that uses it
+   * FIXME: need description, example URL, link to project that uses it
  * [Facebook Graph API](https://developers.facebook.com/docs/graph-api)
-  * FIXME: need description, example URL, link to project that uses it
+   * FIXME: need description, example URL, link to project that uses it
  * [Twitter API](https://dev.twitter.com/docs/api)
-  * FIXME: need description, example URL, link to project that uses it
+   * FIXME: need description, example URL, link to project that uses it
   
 ### Repo, Repository ([wikipedia](http://en.wikipedia.org/wiki/Repository_%28version_control%29))
 
